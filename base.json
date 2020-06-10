@@ -1,28 +1,27 @@
-"chaves":[
-        
-        {
-            "chave": "Id de pesquisa 1",
-            "valor": "Valor da pesquisa 1"
-        },
-        {
-            "chave": "Id de pesquisa 2",
-            "valor": "Valor da pesquisa 2"
-        },
-        {
-            "chave": "Id de pesquisa 3",
-            "valor": "Valor da pesquisa 3"
-        },
-        {
-            "chave": "Id de pesquisa 4",
-            "valor": "Valor da pesquisa 4"
-        },
-        {
-            "chave": "Id de pesquisa 5",
-            "valor": "Valor da pesquisa 5"
-        },
-        {
-            "chave": "Id de pesquisa 6",
-            "valor": "Valor da pesquisa 6"
-        }
-    ]
+{ 
+        "chave01": "Valor para esta chave 01",
+        "chave02": "Valor para esta chave 02",
+        "chave03": "Valor para esta chave 03",
+        "chave04": "Valor para esta chave 04",
+        "chave05": "Valor para esta chave 05",
+        "chave06": "Valor para esta chave 06",
+        "chave07": "Valor para esta chave 07",
+        "chave08": "Valor para esta chave 08",
+        "chave09": "Valor para esta chave 09",
+        "chave10": "Valor para esta chave 10",
+        "chave11": "Valor para esta chave 11",
+        "chave12": "Valor para esta chave 12",
+        "chave13": "Valor para esta chave 13",
+        "chave14": "Valor para esta chave 14",
+        "chave15": "Valor para esta chave 15",
+        "chave16": "Valor para esta chave 16",
+        "chave17": "Valor para esta chave 17",
+        "chave18": "Valor para esta chave 18",
+        "chave19": "Valor para esta chave 19",
+        "chave20": "Valor para esta chave 20",
+        "chave21": "Valor para esta chave 21",
+        "chave22": "Valor para esta chave 22",
+        "chave23": "Valor para esta chave 23",
+        "chave24": "Valor para esta chave 24",
+        "chave25": "Valor para esta chave 25"
 }
